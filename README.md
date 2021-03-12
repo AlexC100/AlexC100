@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexC100
 - 👀 I’m interested in programming, web development, gaming, music.
-- 🌱 I’m currently learning programming(javascript)
-- 💞️ I’m looking to collaborate on freelancing projects.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on freelancing projects both paid and probono.
 - 📫 How to reach me: alexandru.ceausu87@gmail.com
 
 <!---
