@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexC100
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in programming, web development, gaming, music.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on freelancing projects both paid and probono.
